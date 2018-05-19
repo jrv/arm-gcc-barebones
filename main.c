@@ -5,9 +5,9 @@
 #include <stdint.h>
 
 // led pins on MBED lpc1768:
-#define LED4_PIN (18)
-#define LED4_PIN (20)
-#define LED4_PIN (21)
+#define LED1_PIN (18)
+#define LED2_PIN (20)
+#define LED3_PIN (21)
 #define LED4_PIN (23)
 
 int main() {
