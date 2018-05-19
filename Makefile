@@ -1,4 +1,5 @@
-GCC_BIN = ../gcc-arm-none-eabi-4_7-2012q4/bin/
+GCC_BIN = ../gcc-arm-none-eabi-7-2017-q4-major/bin/
+
 PROJECT = blink
 OBJECTS = system_LPC17xx.o startup_LPC17xx.o main.o 
 SYS_OBJECTS = 
